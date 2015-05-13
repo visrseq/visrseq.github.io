@@ -1,2 +1,3 @@
-# VisRseq
-R-based visual framework for analysis of sequencing data
+visrseq.github.io
+=====================
+Demo page created by [Hamid Younesy] (http://hyounesy.github.io).
