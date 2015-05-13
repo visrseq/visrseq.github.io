@@ -1,2 +1,2 @@
-# visrseq.github.io
+# VisRseq
 R-based visual framework for analysis of sequencing data
